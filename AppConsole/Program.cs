@@ -10,8 +10,6 @@ namespace AppConsole
     class Program
     {
 
-        // Naming vil be out of all rules and norms as this done 2 am.
-
         static void Main(string[] args)
         {
             var e_handler = new Exercise_Handler();
