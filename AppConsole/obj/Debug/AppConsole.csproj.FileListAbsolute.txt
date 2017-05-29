@@ -1,0 +1,12 @@
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\AppConsole.exe.config
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\AppConsole.exe
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\AppConsole.pdb
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Bson.dll
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Driver.Core.dll
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Driver.dll
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Bson.xml
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Driver.xml
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\bin\Debug\MongoDB.Driver.Core.xml
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\obj\Debug\AppConsole.exe
+h:\documents\visual studio 2015\Projects\AppConsole\AppConsole\obj\Debug\AppConsole.pdb

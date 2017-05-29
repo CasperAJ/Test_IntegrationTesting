@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationApp", "AppConsole\IntegrationApp.csproj", "{5FA37272-30D1-4B35-A500-700A956CEF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOFIntegration", "TestOFIntegration\TestOFIntegration.csproj", "{1875E97B-2229-4D2E-A519-78D04912878E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA37272-30D1-4B35-A500-700A956CEF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA37272-30D1-4B35-A500-700A956CEF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA37272-30D1-4B35-A500-700A956CEF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA37272-30D1-4B35-A500-700A956CEF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1875E97B-2229-4D2E-A519-78D04912878E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1875E97B-2229-4D2E-A519-78D04912878E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1875E97B-2229-4D2E-A519-78D04912878E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1875E97B-2229-4D2E-A519-78D04912878E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
